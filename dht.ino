@@ -1,3 +1,5 @@
+//@owner divyanshi
+
 #include <dht11.h>
 #define DHT11PIN 4
 
